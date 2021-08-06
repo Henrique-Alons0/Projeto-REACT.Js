@@ -1,0 +1,12 @@
+Para conseguitr executar o projeto, existem alumas configurações necessárias.
+Ter as seguintes bibliotecas instaladas em sua maquina:
+  node
+  npm
+
+escolher um diretorio para "instalar" o React e executar o seguinte comando no terminal na pasta escolhida.
+  
+  npx create-react-app
+ 
+ Feito isso, você terá uma estrutura de pastas. Dentre elas haverá a pasta src, bom, você pode substituir todo o conteudo dessa pasta pelos arquivos que upei no git.
+
+para executar, basta rodar no terminal: npm start
